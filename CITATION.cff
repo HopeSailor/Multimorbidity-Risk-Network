@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: 'Please cite the accompanying publication.'
+type: article
+title: 'What can we learn from multimorbidity? A deep dive from its risk patterns to the corresponding patient profiles'
+authors:
+  - family-names: Wang
+    given-names: Xiaochen
+  - family-names: Zhang
+    given-names: Runtong
+  - family-names: Zhu
+    given-names: Xiaomin
+doi: 10.1016/j.dss.2024.114313
+journal: Decision Support Systems
+year: 2024
